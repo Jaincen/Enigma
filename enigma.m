@@ -1,5 +1,5 @@
 % Version:V0.5
-% Author: 赵健成
+% Author: Jaincen
 % Date ： 2020.04.05
 % 参数说明：
    % text 待加密字符串变量
